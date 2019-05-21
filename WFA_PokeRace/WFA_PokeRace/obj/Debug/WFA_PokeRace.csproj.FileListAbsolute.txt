@@ -1,0 +1,32 @@
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.exe.config
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.exe
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.pdb
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csprojResolveAssemblyReference.cache
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.Properties.Resources.resources
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csproj.GenerateResource.Cache
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.exe
+c:\users\oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.pdb
+C:\Users\Oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.Form1.resources
+C:\Users\Oguz\documents\visual studio 2015\Projects\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.frmChooseRacer.resources
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.exe.config
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.exe
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.pdb
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csprojAssemblyReference.cache
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.Form1.resources
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.frmChooseRacer.resources
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.Properties.Resources.resources
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csproj.GenerateResource.cache
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csproj.CoreCompileInputs.cache
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.exe
+D:\Yazılım\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.pdb
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.exe.config
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.exe
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\bin\Debug\WFA_PokeRace.pdb
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csprojAssemblyReference.cache
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.Form1.resources
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.frmChooseRacer.resources
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.Properties.Resources.resources
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csproj.GenerateResource.cache
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.exe
+C:\Users\Kemal\Desktop\PROJELER\WFA_PokeRace\WFA_PokeRace\obj\Debug\WFA_PokeRace.pdb
